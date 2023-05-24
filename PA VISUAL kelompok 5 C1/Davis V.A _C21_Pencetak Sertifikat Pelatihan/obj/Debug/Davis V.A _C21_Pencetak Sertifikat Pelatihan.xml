@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Davis V.A _C21_Pencetak Sertifikat Pelatihan
+</name>
+</assembly>
+<members>
+<member name="T:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.hello_2488_256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.icon_admin_256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.kisspng_vector_graphics_computer_icons_student_education_i_5c0e7a6fd93ea1_8355601215444527198898__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.logo_umul_pemrograman_Visual">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.logo_umul_pemrograman_Visual_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.My.Resources.Resources.student3_116337">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

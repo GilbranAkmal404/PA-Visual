@@ -1,0 +1,20 @@
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\bin\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.exe.config
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\bin\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.exe
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\bin\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.pdb
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\bin\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.xml
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.Resources.resources
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.exe
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.xml
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.pdb
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.LoginUserorAdmin.resources
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.LoginAdmin.resources
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.LoginUser.resources
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.FormaAdmin.resources
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.FormMahasiswa.resources
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\bin\Debug\mysql.data.dll
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis V.A _C21_Pencetak Sertifikat Pelatihan.vbproj.CopyComplete
+C:\Users\Acer\source\repos\Davis V.A _C21_Pencetak Sertifikat Pelatihan\Davis V.A _C21_Pencetak Sertifikat Pelatihan\obj\Debug\Davis_V.A__C21_Pencetak_Sertifikat_Pelatihan.Pnl_Ubah.resources
